@@ -1,4 +1,7 @@
-# test coverage for  [check-dependencies (v1.0.1)](https://github.com/mgol/check-dependencies)  [![npm package](https://img.shields.io/npm/v/npmtest-check-dependencies.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-check-dependencies) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-check-dependencies.svg)](https://travis-ci.org/npmtest/node-npmtest-check-dependencies)
+# npmtest-check-dependencies
+
+#### basic test-coverage for  [check-dependencies (v1.0.1)](https://github.com/mgol/check-dependencies)  [![npm package](https://img.shields.io/npm/v/npmtest-check-dependencies.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-check-dependencies) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-check-dependencies.svg)](https://travis-ci.org/npmtest/node-npmtest-check-dependencies)
+
 #### Checks if currently installed npm/bower dependencies are installed in the exact same versions that are specified in package.json/bower.json
 
 [![NPM](https://nodei.co/npm/check-dependencies.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/check-dependencies)
